@@ -1,5 +1,5 @@
 <div>
-   <img  height="400px" width="400px" align="right" alt="code.gif" src="[https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+   <img  height="400px" width="400px" align="right" alt="code.gif" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div>
 
 <h1 align="left">Hi 👋, I'm Mayan Pipaliya</h1> 
