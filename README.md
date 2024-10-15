@@ -5,7 +5,7 @@
 Hi 👋, I'm Mayan Pipaliya<br><br>A passionate BCA Student | Full-Stack Development Enthusiast | Lifelong Learner
 
 
-[![](https://visitcount.itsvg.in/api?id=MayanPipaliya&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MayanPipaliya&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <br><br><br><br><br>
 
